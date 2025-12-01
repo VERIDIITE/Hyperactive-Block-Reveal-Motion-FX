@@ -124,7 +124,7 @@ Tailwind CSS classes can be modified throughout the components to match your des
 
 ### on Vercel
 
-[![CLICK ME](https://vercel.com/button)](https://block-reveal-animation.vercel.ap)
+[![CLICK ME](https://vercel.com/button)](https://block-reveal-animation.vercel.app)
 
 ## License
 
