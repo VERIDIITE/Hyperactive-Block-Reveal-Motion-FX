@@ -1,12 +1,12 @@
-# Block-Reveal-Animation
+# Hyperactive Block Reveal Motion FX
 
 > An interactive photo gallery showcasing GSAP's Hyperactive Block Reveal Effect with smooth page transitions
 
-![Block Reveal Demo](public/sc1.png)
+![Hyperactive Block Reveal Motion FX Demo](public/sc1.png)
 
 ## Overview
 
-Block-Reveal is a modern, visually stunning photo gallery built with Next.js 16 and GSAP. It demonstrates advanced animation techniques using the hyperactive block reveal effect, creating an engaging user experience with dynamic transitions between gallery pages.
+Hyperactive Block Reveal Motion FX is a modern, visually stunning photo gallery built with Next.js 16 and GSAP. It demonstrates advanced animation techniques using the hyperactive block reveal effect, creating an engaging user experience with dynamic transitions between gallery pages.
 
 ## Features
 
@@ -90,7 +90,7 @@ block-reveal/
 
 ## How It Works
 
-The Block Reveal effect is achieved through:
+Hyperactive Block Reveal Motion FX effect is achieved through:
 
 1. **GSAP Animations** - Utilizing GSAP's timeline and tween capabilities for complex, coordinated animations
 2. **Block Elements** - Dynamically positioned colored blocks that animate in sequence
